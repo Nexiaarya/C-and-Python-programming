@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-char* readline();
+char* readline(); 
 
 int camelcase(char* s) {
 int wordcount=1;
